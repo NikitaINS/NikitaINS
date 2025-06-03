@@ -11,4 +11,3 @@
 ### 🚀 Ключевые проекты:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitalNS&layout=compact&theme=dark)
